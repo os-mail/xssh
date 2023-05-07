@@ -1,1 +1,1 @@
-# xssh vps
+# xssh
